@@ -12,6 +12,8 @@
 -- MAGIC 
 -- MAGIC # Notebook Basics
 -- MAGIC 
+-- MAGIC You're viewing a revised version updated locally.
+-- MAGIC 
 -- MAGIC Notebooks are the primary means of developing and executing code interactively on Databricks. This lesson provides a basic introduction to working with Databricks notebooks.
 -- MAGIC 
 -- MAGIC If you've previously used Databricks notebooks but this is your first time executing a notebook in Databricks Repos, you'll notice that basic functionality is the same. In the next lesson, we'll review some of the functionality that Databricks Repos adds to notebooks.
